@@ -1,0 +1,10 @@
+{
+  "name": "ChemiConnect",
+  "short_name": "ChemiConnect",
+  "description": "PHC pharma stock, billing and alerts that keep working without internet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
